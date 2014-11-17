@@ -1,0 +1,1 @@
+Here some of my tips for angular JS
